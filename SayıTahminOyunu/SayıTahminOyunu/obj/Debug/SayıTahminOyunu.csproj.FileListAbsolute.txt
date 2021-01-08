@@ -1,0 +1,7 @@
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\SayıTahminOyunu.exe.config
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\SayıTahminOyunu.exe
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\SayıTahminOyunu.pdb
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.csprojAssemblyReference.cache
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.exe
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.pdb
